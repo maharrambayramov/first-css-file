@@ -2,7 +2,7 @@
     display: inline-flex;
     width: 100%;
     background-color: #212529;
-padding: auto;
+    padding: auto;
 }
 
 .head {
@@ -32,6 +32,7 @@ padding: auto;
     border-radius: 0.5rem;
     border-color: white;
 }
+
 .about {
     text-align: center;
     margin: 1em;
@@ -41,11 +42,13 @@ padding: auto;
     font-weight: 500;
     line-height: 1.2;
 }
-.name1{
+
+.name1 {
     width: 60%;
     text-align: center;
     margin: auto;
 }
+
 .service {
     width: 100%;
     text-align: center;
@@ -58,19 +61,29 @@ padding: auto;
     text-align: center;
 
 }
+
 .contact {
     text-align: center;
     margin: auto;
     padding-top: 9em;
 
 }
-.name2{
-    width: 60%
+
+.name2 {
+    width: 60%;
     text-align: center;
 }
-.name3{
+
+.name3 {
     width: 60%;
     text-align: center;
     margin: auto;
 
+}
+
+.last {
+    color: white;
+    text-align: center;
+    background-color: black;
+    margin: 0%;
 }
